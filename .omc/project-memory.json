@@ -1,0 +1,105 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776340149496,
+  "projectRoot": "/Users/lyujeong-gyun/Desktop/study/seven",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Java/Kotlin",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "build.gradle"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "gradle",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "src"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "build": {
+      "path": "build",
+      "purpose": "Build output",
+      "fileCount": 0,
+      "lastAccessed": 1776340149476,
+      "keyFiles": []
+    },
+    "gradle": {
+      "path": "gradle",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1776340149477,
+      "keyFiles": []
+    },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 0,
+      "lastAccessed": 1776340149477,
+      "keyFiles": []
+    },
+    "src/test": {
+      "path": "src/test",
+      "purpose": "Test files",
+      "fileCount": 0,
+      "lastAccessed": 1776340149478,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "src/main/java/hellojpa/seven/domain/user/service/UserService.java",
+      "accessCount": 1,
+      "lastAccessed": 1776340186935,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/hellojpa/seven/config/SecurityConfig.java",
+      "accessCount": 1,
+      "lastAccessed": 1776340187374,
+      "type": "file"
+    },
+    {
+      "path": "src/main/resources/templates/login.mustache",
+      "accessCount": 1,
+      "lastAccessed": 1776340353396,
+      "type": "file"
+    },
+    {
+      "path": "src/main/resources/application.properties",
+      "accessCount": 1,
+      "lastAccessed": 1776340532972,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/hellojpa/seven/api/JoinController.java",
+      "accessCount": 1,
+      "lastAccessed": 1776340533813,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
